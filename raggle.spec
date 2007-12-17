@@ -10,7 +10,6 @@ License: BSD-like
 Group: Networking/News
 URL: http://www.raggle.org/
 Source0: %{name}-%{version}.tar.bz2
-BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: ruby-devel
 Requires: ruby-ncurses
 BuildArch: noarch
