@@ -41,3 +41,30 @@ rm -Rf %buildroot/%_datadir/doc/
 %_datadir/%name/
 
 
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 0.4.4-5mdv2010.0
++ Revision: 433055
+- rebuild
+
+* Fri Aug 01 2008 Thierry Vignaud <tvignaud@mandriva.com> 0.4.4-4mdv2009.0
++ Revision: 260041
+- rebuild
+
+* Fri Jul 25 2008 Thierry Vignaud <tvignaud@mandriva.com> 0.4.4-3mdv2009.0
++ Revision: 247819
+- rebuild
+
+* Wed Jan 02 2008 Olivier Blin <oblin@mandriva.com> 0.4.4-1mdv2008.1
++ Revision: 140744
+- restore BuildRoot
+
+  + Thierry Vignaud <tvignaud@mandriva.com>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Mon Dec 11 2006 Michael Scherer <misc@mandriva.org> 0.4.4-1mdv2007.0
++ Revision: 95046
+- Import raggle
+
