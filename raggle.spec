@@ -1,6 +1,6 @@
 %define name raggle
 %define version 0.4.4
-%define release %mkrel 5
+%define release 6
 
 Summary: A console RSS aggregator with a curses ui
 Name: %name
