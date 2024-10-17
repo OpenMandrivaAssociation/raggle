@@ -8,7 +8,7 @@ Version: %version
 Release: %release
 License: BSD-like
 Group: Networking/News
-URL: http://www.raggle.org/
+URL: https://www.raggle.org/
 Source0: %{name}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: ruby-devel
