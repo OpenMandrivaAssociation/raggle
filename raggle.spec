@@ -11,6 +11,7 @@ Group: Networking/News
 URL: https://www.raggle.org/
 Source0: %{name}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-buildroot
+BuildRequires:	make
 BuildRequires: ruby-devel
 Requires: ruby-ncurses
 BuildArch: noarch
